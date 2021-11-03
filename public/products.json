@@ -1,0 +1,32 @@
+{
+    "products":[
+        {
+            "categoryID" : 1,
+            "productName": "Shoes-1"
+        },
+        {
+            "categoryID" : 1,
+            "productName": "Shoes-2"
+        },
+        {
+            "categoryID" : 1,
+            "productName": "Shoes-3"
+        },
+        {
+            "categoryID" : 1,
+            "productName": "Shoes-4"
+        },
+        {
+            "categoryID" : 2,
+            "productName": "Shirt-1"
+        },
+        {
+            "categoryID" : 2,
+            "productName": "Shirt-2"
+        },
+        {
+            "categoryID" : 5,
+            "productName": "Watch-1"
+        }
+    ]
+}

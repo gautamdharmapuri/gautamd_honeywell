@@ -1,0 +1,24 @@
+{
+    "categories":[
+        {
+            "categoryID" : 1,
+            "categoryName": "Shoes"
+        },
+        {
+            "categoryID" : 2,
+            "categoryName": "Shirts"
+        },
+        {
+            "categoryID" : 3,
+            "categoryName": "Trousers"
+        },
+        {
+            "categoryID" : 4,
+            "categoryName": "SunGlasses"
+        },
+        {
+            "categoryID" : 5,
+            "categoryName": "Watches"
+        }
+    ]
+}
